@@ -1,0 +1,21 @@
+body {
+    width: 300px;
+    font-family: Arial, sans-serif;
+  }
+  
+  #data-container {
+    margin-bottom: 10px;
+  }
+  
+  .data-item {
+    margin-bottom: 5px;
+  }
+  
+  .data-item label {
+    display: block;
+  }
+  
+  .data-item select {
+    width: 100%;
+  }
+  
